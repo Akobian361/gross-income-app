@@ -19,9 +19,9 @@ Because we do not collect any data, we have no data to share with third parties,
 * **Deletion:** If you delete the Gross Income app from your device, all data associated with it is permanently deleted immediately. We cannot recover this data for you because we do not have a copy of it.
 
 ## 4. Contact Us / Support
-If you have questions about this policy or need help with the app, please contact us:
+If you have questions about this policy or need to report a bug, please open an issue on our public tracker:
 
-* **Email:** [INSERT YOUR EMAIL HERE]
+* **Report an Issue:** [Click here to file a report](https://github.com/Akobian361/gross-income-app/issues)
 
 ---
 *This policy is hosted on GitHub Pages.*
